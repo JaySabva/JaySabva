@@ -1,6 +1,7 @@
 # Hello there 🌌!
 
 ![](https://github-readme-stats.vercel.app/api?username=jaysabva&icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaysabva&icons=true&theme=transparent&hide_border=false)
 
 # Top Languages:
