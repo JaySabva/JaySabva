@@ -58,14 +58,12 @@
 </tr>
 </table>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaysabva&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-
-### ✍️ Random Dev Quote & 😂 Random Dev Meme
+### ✍️ Random Dev Quote .................           😂 Random Dev Meme
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 <img src="https://randommeme-five.vercel.app/" height="300px" width="300px"/>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaysabva&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![An image of @jaysabva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaysabva)](https://holopin.io/@jaysabva)
