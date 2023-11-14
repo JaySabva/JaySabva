@@ -1,14 +1,9 @@
 # Hello there 🌌!
+![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ![](https://github-readme-stats.vercel.app/api?username=jaysabva&icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaysabva&icons=true&theme=transparent&hide_border=false)
-
-# Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaySabva&show_icons=true&theme=transparent&layout=donut)
-
-
-
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
