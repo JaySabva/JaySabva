@@ -1,7 +1,7 @@
 # Hello there 🌌!
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-![JaySabva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyesh2025&show_icons=true&rank_icon=github&theme=codeSTACKr)
+![JaySabva's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaySabva&show_icons=true&rank_icon=github&theme=codeSTACKr)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaysabva&icons=true&theme=transparent&hide_border=false)
 
