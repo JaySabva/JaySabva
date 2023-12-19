@@ -1,35 +1,74 @@
 # Hello there 🌌!
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
- [![Activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaySabva&theme=transparent)](https://github.com/JaySabva/)
+## Github Stats:
+[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaySabva&theme=transparent)](https://github.com/JaySabva/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=JaySabva&theme=transparent&hide_border=true&card_width=900)](https://git.io/streak-stats)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jaysabva&icons=true&theme=transparent&hide_border=false)
+## 💻 Tech Stack:
+<table>
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=c" width="60" height="60" padding="5" alt="JavaScript" />
+        <br>C</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" padding="5" alt="React" />
+        <br>C++</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=python" width="60" height="60" padding="5" alt="React" />
+        <br>Python</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="React" />
+        <br>JavaScript</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" padding="5" alt="React"  />
+        <br>Node.js</br>
+</td>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" padding="5" alt="Express" />
+        <br>Express</br>
+</td>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="NestJS" />
+        <br>Postman</br>
+</td>
 
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="Node.js" />
+        <br>MongoDB</br>
+</td>
 
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" padding="5" alt="Express" />
+        <br>PostgreSQL</br>
+</td>
+</tr>
+<tr>
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=graphql" width="60" height="60" padding="5" alt="Express" />
+        <br>GraphQL</br>
+</td>
 
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=jest" width="60" height="60" padding="5" alt="Express" />
+        <br>Jest</br>
+</td>
 
+</td>
+</tr>
 
-
-![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-
-
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=black)
+</table>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JaySabva) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jaysabva)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay_sabva) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/JaySabva) 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/jaysabva)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jay_sabva) 
 
 ## Repositories:
 
@@ -54,15 +93,13 @@
 </tr>
 </table>
 
-### ✍️ Random Dev Quote .................           😂 Random Dev Meme
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-<img src="https://randommeme-five.vercel.app/" height="300px" width="300px"/>
+## ✍️ Random Dev Quote 
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- <img src="https://randommeme-five.vercel.app/" height="300px" width="300px"/> -->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaysabva&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![An image of @jaysabva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaysabva)](https://holopin.io/@jaysabva)
+<!-- [![An image of @jaysabva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaysabva)](https://holopin.io/@jaysabva) -->
 
 
 
