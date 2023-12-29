@@ -60,6 +60,11 @@
         <br>Jest</br>
 </td>
 
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" width="60" height="60" padding="5" alt="Express" />
+        <br>Socket.IO</br>
+</td>
+
 </td>
 </tr>
 
