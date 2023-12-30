@@ -65,6 +65,11 @@
         <br>Socket.IO</br>
 </td>
 
+<td align="center" width="96" style="border:2px solid blue">
+        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="Express" />
+        <br>React</br>
+</td>
+
 </td>
 </tr>
 
