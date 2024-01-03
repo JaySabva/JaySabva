@@ -8,72 +8,68 @@
 
 ## 💻 Tech Stack:
 <table>
-<tr>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=c" width="60" height="60" padding="5" alt="JavaScript" />
-        <br>C</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" padding="5" alt="React" />
-        <br>C++</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=python" width="60" height="60" padding="5" alt="React" />
-        <br>Python</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="React" />
-        <br>JavaScript</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" padding="5" alt="React"  />
-        <br>Node.js</br>
-</td>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" padding="5" alt="Express" />
-        <br>Express</br>
-</td>
-
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="NestJS" />
-        <br>Postman</br>
-</td>
-
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="Node.js" />
-        <br>MongoDB</br>
-</td>
-
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" padding="5" alt="Express" />
-        <br>PostgreSQL</br>
-</td>
-</tr>
-<tr>
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=graphql" width="60" height="60" padding="5" alt="Express" />
-        <br>GraphQL</br>
-</td>
-
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=jest" width="60" height="60" padding="5" alt="Express" />
-        <br>Jest</br>
-</td>
-
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" width="60" height="60" padding="5" alt="Express" />
-        <br>Socket.IO</br>
-</td>
-
-<td align="center" width="96" style="border:2px solid blue">
-        <img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="Express" />
-        <br>React</br>
-</td>
-
-</td>
-</tr>
-
+   <tr>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" padding="5" alt="Node.js" />
+         <br>Node.js</br>
+      </td>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=express" width="60" height="60" padding="5" alt="Express" />
+         <br>Express</br>
+      </td>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" width="60" height="60" padding="5" alt="Socket.IO" />
+         <br>Socket.IO</br>
+      </td>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=graphql" width="60" height="60" padding="5" alt="GraphQL" />
+         <br>GraphQL</br>
+      </td>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=react" width="60" height="60" padding="5" alt="React" />
+         <br>React</br>
+      </td>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" padding="5" alt="MongoDB" />
+         <br>MongoDB</br>
+      </td>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" padding="5" alt="PostgreSQL" />
+         <br>PostgreSQL</br>
+      </td>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=redis" width="60" height="60" padding="5" alt="Redis" />
+         <br>Redis</br>
+      </td>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" padding="5" alt="JavaScript" />
+         <br>JavaScript</br>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" padding="5" alt="Postman" />
+         <br>Postman</br>
+      </td>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=jest" width="60" height="60" padding="5" alt="Jest" />
+         <br>Jest</br>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=c" width="60" height="60" padding="5" alt="C" />
+         <br>C</br>
+      </td>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" padding="5" alt="C++" />
+         <br>C++</br>
+      </td>
+      <td align="center" width="96" style="border:2px solid blue">
+         <img src="https://skillicons.dev/icons?i=python" width="60" height="60" padding="5" alt="Python" />
+         <br>Python</br>
+      </td>
+      </td>
+   </tr>
 </table>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/JaySabva) 
